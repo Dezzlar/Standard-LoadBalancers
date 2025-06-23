@@ -12,8 +12,8 @@ The goal of this project is to create a highly available web service environment
 
 ## 🗺 Architecture Diagram
 
-![Load Balancer Overview](docs/LBS.png)
-![Frontend connectivity](docs/VMS.png)
+![Load Balancer Overview](LBS.png)
+![Frontend connectivity](VMS.png)
 
 ---
 
